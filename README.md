@@ -42,130 +42,168 @@ kimlik doğrulama, raporlama, scraping ve modern arayüzler.
 
 ## Öne çıkan projeler
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Lab Rapor
-**Laboratuvar raporlama · Spring Boot + React**
-
-JWT oturum, rapor CRUD, görsel yükleme, yazdırma / HTML indirme.
-Yönetici ve kullanıcı rolleriyle temiz bir rapor yönetim paneli.
-
-[`ozxcann/lab-rapor`](https://github.com/ozxcann/lab-rapor) · **Public**
-
-<p>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0A0A0A" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
-  <img src="https://img.shields.io/badge/H2-003B57?style=flat-square&logo=h2&logoColor=white" alt="H2" />
+<p align="center">
+  <sub>Seçili işler · uçtan uca ürünler · net teknoloji seçimleri</sub>
 </p>
-
-**Öne çıkanlar**
-- Rapor arama, tarih sıralama, PNG/JPG yükleme
-- Detay ekranı → yazdır / HTML indir
-- Silme yetkisi yalnızca `ADMIN`
-- Yerel H2 ile hızlı kurulum
-
-</td>
-<td width="50%" valign="top">
-
-### Trendyol Takip
-**Ürün takip · WinForms + Selenium + SQLite**
-
-Kategori ve ürün linklerini kaydeden, Selenium ile sayfadan veri toplayan,
-sonuçları kategori klasörlerine XML olarak yazan Windows masaüstü uygulaması.
-
-[`ozxcann/trendyol-takipp`](https://github.com/ozxcann/trendyol-takipp) · **Private**
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-.NET_8-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="WinForms" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
-</p>
-
-**Öne çıkanlar**
-- Kategori + link yönetimi (SQLite)
-- Periyodik / manuel scrape (Chrome · Edge)
-- TRY → USD / EUR kur dönüşümü
-- Ürün başına XML çıktı
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Çölyak Rehberi · freeGluten
-**Glutensiz yaşam platformu · Next.js + Prisma**
-
-Ürün kataloğu, barkod tarama, mekan haritası, favoriler ve alışveriş listesi.
-Rol tabanlı auth + admin paneli + scraping katmanı.
-
-[`ozxcann/freeGluten`](https://github.com/ozxcann/freeGluten) · **Private**
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=auth0&logoColor=white" alt="NextAuth" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-</p>
-
-**Öne çıkanlar**
-- Ürün arama / filtre / çapraz bulaşma riski
-- Leaflet harita + mekan önerisi
-- Barkod tarama · favori · alışveriş listesi
-- Playwright scraping · Expo mobil iskelet
-- Vercel + Neon ile bulut dağıtım
-
-</td>
-<td width="50%" valign="top">
-
-### Web Side
-**Kişisel web · TypeScript**
-
-Portföy ve tanıtım sitesi — canlıda yayınlanıyor.
-
-[`ozxcann/web-side`](https://github.com/ozxcann/web-side) · **[Canlı site](https://web-side.vercel.app)** · **Public**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-**Öne çıkanlar**
-- Hafif, hızlı kişisel vitrin
-- Vercel üzerinde sürekli yayın
-- GitHub profiliyle aynı marka dili
 
 <br />
 
-> Daha fazlası için: [selamiozcan-web.vercel.app](https://selamiozcan-web.vercel.app/)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ozxcann/lab-rapor">
+        <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/03-dashboard.jpg" alt="Lab Rapor Dashboard" width="100%" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/WEB_APP-2DD4BF?style=flat-square&labelColor=0F172A&color=2DD4BF" alt="Web" />
+      <img src="https://img.shields.io/badge/Public-22C55E?style=flat-square&logo=github&logoColor=white" alt="Public" />
+      <h3>
+        <a href="https://github.com/ozxcann/lab-rapor">Lab Rapor</a>
+      </h3>
+      <p>
+        <b>Laboratuvar raporlama</b><br />
+        <sub>Spring Boot · React · JWT</sub>
+      </p>
+      <p>
+        Rapor CRUD, görsel yükleme ve yazdırma/HTML indirme.
+        Yönetici–kullanıcı rolleriyle sade bir yönetim paneli.
+      </p>
+      <p>
+        <code>arama · tarih sıralama · PNG/JPG</code><br />
+        <code>yazdır / HTML indir</code><br />
+        <code>silme → yalnızca ADMIN</code><br />
+        <code>yerel H2 · hızlı kurulum</code>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0A0A0A" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
+      </p>
+      <p>
+        <a href="https://github.com/ozxcann/lab-rapor"><img src="https://img.shields.io/badge/Repoyu_incele-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ozxcann/trendyol-takipp">
+        <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/previews/trendyol-takip.png" alt="Trendyol Takip Ana Ekran" width="100%" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/DESKTOP-38BDF8?style=flat-square&labelColor=0F172A&color=38BDF8" alt="Desktop" />
+      <img src="https://img.shields.io/badge/Private-64748B?style=flat-square&logo=github&logoColor=white" alt="Private" />
+      <h3>
+        <a href="https://github.com/ozxcann/trendyol-takipp">Trendyol Takip</a>
+      </h3>
+      <p>
+        <b>Ürün takip otomasyonu</b><br />
+        <sub>WinForms · Selenium · SQLite</sub>
+      </p>
+      <p>
+        Kategori ve ürün linklerini kaydeder; Selenium ile scrap eder,
+        sonuçları kategori klasörlerine XML olarak yazar.
+      </p>
+      <p>
+        <code>kategori + link yönetimi</code><br />
+        <code>periyodik / manuel scrape</code><br />
+        <code>TRY → USD / EUR</code><br />
+        <code>ürün başına XML çıktı</code>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-.NET_8-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="WinForms" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
+      </p>
+      <p>
+        <a href="https://github.com/ozxcann/trendyol-takipp"><img src="https://img.shields.io/badge/Repoyu_incele-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" height="16"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/FULL--STACK-A78BFA?style=flat-square&labelColor=0F172A&color=A78BFA" alt="Full-stack" />
+      <img src="https://img.shields.io/badge/Private-64748B?style=flat-square&logo=github&logoColor=white" alt="Private" />
+      <img src="https://img.shields.io/badge/Mobile_ready-0EA5E9?style=flat-square" alt="Mobile" />
+      <h3>
+        <a href="https://github.com/ozxcann/freeGluten">Çölyak Rehberi · freeGluten</a>
+      </h3>
+      <p>
+        <b>Glutensiz yaşam platformu</b><br />
+        <sub>Next.js · Prisma · PostgreSQL</sub>
+      </p>
+      <p>
+        Ürün kataloğu, barkod tarama, mekan haritası, favoriler ve
+        alışveriş listesi — auth, admin ve scraping katmanıyla birlikte.
+      </p>
+      <p>
+        <code>arama · filtre · çapraz bulaşma riski</code><br />
+        <code>harita · barkod · favori · liste</code><br />
+        <code>Playwright scraping · Expo mobil</code><br />
+        <code>Vercel + Neon dağıtım</code>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+      <p>
+        <a href="https://github.com/ozxcann/freeGluten"><img src="https://img.shields.io/badge/Repoyu_incele-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PORTFOLIO-F472B6?style=flat-square&labelColor=0F172A&color=F472B6" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Public-22C55E?style=flat-square&logo=github&logoColor=white" alt="Public" />
+      <img src="https://img.shields.io/badge/Live-2DD4BF?style=flat-square&logo=vercel&logoColor=0F172A" alt="Live" />
+      <h3>
+        <a href="https://github.com/ozxcann/web-side">Web Side</a>
+      </h3>
+      <p>
+        <b>Kişisel vitrin</b><br />
+        <sub>TypeScript · Vercel</sub>
+      </p>
+      <p>
+        Portföy ve tanıtım sitesi — hafif, hızlı ve canlıda yayında.
+        Profil README ile aynı marka dilini paylaşır.
+      </p>
+      <p>
+        <code>kişisel vitrin · hızlı yükleme</code><br />
+        <code>Vercel continuous deploy</code><br />
+        <code>tutarlı marka dili</code>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <p>
+        <a href="https://web-side.vercel.app"><img src="https://img.shields.io/badge/Canlı_site-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0F172A" alt="Live" /></a>
+        &nbsp;
+        <a href="https://github.com/ozxcann/web-side"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br />
 
 <details>
-<summary><b>Lab Rapor — ekran görüntüleri</b></summary>
-<br />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/01-giris.jpg" alt="Giriş" width="48%" />
-  <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/03-dashboard.jpg" alt="Dashboard" width="48%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/04-yeni-rapor.jpg" alt="Yeni rapor" width="48%" />
-  <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/05-rapor-detay.jpg" alt="Rapor detay" width="48%" />
-</p>
-
+  <summary><b>Lab Rapor — daha fazla ekran</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/01-giris.jpg" alt="Giriş" width="48%" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/04-yeni-rapor.jpg" alt="Yeni rapor" width="48%" />
+  </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/05-rapor-detay.jpg" alt="Rapor detay" width="48%" />
+  </p>
 </details>
 
 <br />
