@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Ankara-0F172A?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" alt="Ankara" />
     <a href="https://selamiozcan-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio_Web-0F172A?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
     <a href="https://github.com/ozxcann"><img src="https://img.shields.io/badge/GitHub-ozxcann-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/selamiozcn/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
   </p>
 
   <p>
@@ -222,6 +223,7 @@ Portföy ve tanıtım sitesi — canlıda yayınlanıyor.
   [![Portfolio](https://img.shields.io/badge/Web_Portf%C3%B6y-0F172A?style=for-the-badge&logo=safari&logoColor=2DD4BF)](https://selamiozcan-web.vercel.app/)
   [![Web Side](https://img.shields.io/badge/web--side-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://web-side.vercel.app)
   [![GitHub](https://img.shields.io/badge/ozxcann-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozxcann)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selamiozcn/)
 
   <br /><br />
 
