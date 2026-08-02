@@ -4,7 +4,7 @@
   Palette: Sky #0EA5E9 · Blue #3B82F6 · Surface #0F172A
 -->
 
-<!-- ========== HERO (portfolio-style) ========== -->
+<!-- ========== HERO ========== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/hero-banner.png" alt="Selami Özcan — Business Analyst & Developer" width="100%" />
 </p>
@@ -20,9 +20,9 @@
 
 <br />
 
-Merhaba — Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
+**Hakkımda** — Merhaba, Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
 **Türkiye Finans**’ta BA Intern olarak gereksinim, SQL Server, UAT ve Scrum süreçlerine katkı verdim.  
-Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum.
+Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum. Analitik + ürün odaklı çalışıyorum: net gereksinimler, ölçülebilir iş akışları, temiz arayüz. Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) üzerinde full-stack / otomasyon / harita deneyimi.
 
 <br />
 
@@ -38,18 +38,25 @@ Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum.
 
 <br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/stats-row.png" alt="1+ Staj · 15+ Liderlik · 10+ Sertifika" width="720" />
-</p>
-
----
-
+<!-- ========== YETENEKLER (eski stats kartlarının yeri) ========== -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-about.png" alt="Hakkımda" height="40" />
+  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-skills.png" alt="Yetenekler" height="40" />
 </p>
 
-Analitik + ürün odaklı çalışıyorum: net gereksinimler, ölçülebilir iş akışları, temiz arayüz.  
-Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) üzerinde full-stack / otomasyon / harita deneyimi.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nextjs,nodejs,java,spring,dotnet,postgres,docker,git&theme=dark&perline=13" alt="Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Analysis-0EA5E9?style=flat-square" alt="BA" />
+  <img src="https://img.shields.io/badge/Requirements-3B82F6?style=flat-square" alt="Req" />
+  <img src="https://img.shields.io/badge/Process_Mapping-2563EB?style=flat-square" alt="Process" />
+  <img src="https://img.shields.io/badge/UAT-0F172A?style=flat-square&logoColor=38BDF8" alt="UAT" />
+  <img src="https://img.shields.io/badge/SQL_Server-0EA5E9?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/GIS-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="GIS" />
+</p>
 
 ---
 
@@ -147,54 +154,9 @@ Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app)
 </tr>
 </table>
 
-<details>
-<summary><sub>Lab Rapor ekran görüntüleri</sub></summary>
-<br />
-<p align="center">
-<img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/03-dashboard.jpg" width="48%" alt="Dashboard" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/01-giris.jpg" width="48%" alt="Giriş" />
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/04-yeni-rapor.jpg" width="48%" alt="Yeni rapor" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/05-rapor-detay.jpg" width="48%" alt="Detay" />
-</p>
-</details>
-
 ---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-skills.png" alt="Yetenekler" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nextjs,nodejs,java,spring,dotnet,postgres,docker,git&theme=dark&perline=13" alt="Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Business_Analysis-0EA5E9?style=flat-square" alt="BA" />
-  <img src="https://img.shields.io/badge/Requirements-3B82F6?style=flat-square" alt="Req" />
-  <img src="https://img.shields.io/badge/Process_Mapping-2563EB?style=flat-square" alt="Process" />
-  <img src="https://img.shields.io/badge/UAT-0F172A?style=flat-square&logoColor=38BDF8" alt="UAT" />
-  <img src="https://img.shields.io/badge/SQL_Server-0EA5E9?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/GIS-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="GIS" />
-</p>
-
----
-
----
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ozxcann&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000" alt="Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozxcann&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8&bg_color=00000000" alt="Languages" />
-</p>
-
----
-
-<!-- ========== CONTACT CTA (portfolio gradient) ========== -->
+<!-- ========== CONTACT ========== -->
 <p align="center">
   <a href="mailto:selamiozcan.work@gmail.com">
     <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/contact-cta.png" alt="İletişime Geçin" width="100%" />
