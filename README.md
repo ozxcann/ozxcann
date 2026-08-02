@@ -13,11 +13,15 @@
 
 <sub>Analyze &nbsp;|&nbsp; Product &nbsp;|&nbsp; Code &nbsp;|&nbsp; Ankara</sub>
 
-<br />
+</div>
 
-Gereksinimleri netleştirir, süreçleri modele döküp test edilebilir hale getirir; SQL ile veri ve raporlama ihtiyacını karşılarım.  
-Scrum ekiplerinde UAT ve entegrasyon testleriyle kaliteyi destekler, paydaş ile geliştirme arasında köprü kurarım.  
-Web ve masaüstü ürünlerde (Spring Boot, React, Next.js, .NET) uçtan uca özellik geliştiririm: kimlik doğrulama, CRUD, raporlama, entegrasyon ve yayınlama akışlarını tek parça olarak ele alır; Selenium / Playwright ile tekrarlayan işleri otomatikleştirir, arayüzleri sade ve anlaşılır tutarak iş sonucuna odaklanırım.
+- Gereksinimleri netleştirir, süreçleri modele döküp test edilebilir hale getiririm
+- SQL ile veri analizi, sorgulama ve raporlama ihtiyacını karşılarım
+- Scrum ekiplerinde UAT ve entegrasyon testleriyle kaliteyi destekler; paydaş ile geliştirme arasında köprü kurarım
+- Web ve masaüstü ürünlerde (Spring Boot, React, Next.js, .NET) kimlik doğrulama, CRUD, raporlama, entegrasyon ve yayınlama akışlarını uçtan uca geliştiririm
+- Selenium / Playwright ile tekrarlayan işleri otomatikleştirir; arayüzleri sade ve anlaşılır tutarak iş sonucuna odaklanırım
+
+<div align="center">
 
 <br />
 
