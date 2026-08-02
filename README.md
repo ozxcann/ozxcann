@@ -45,6 +45,10 @@ kimlik doğrulama, raporlama, scraping ve modern arayüzler.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/ozxcann/lab-rapor">
+        <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/covers/lab-rapor.png" alt="Lab Rapor kapak" width="100%" />
+      </a>
+      <br /><br />
       <h3><a href="https://github.com/ozxcann/lab-rapor">Lab Rapor</a></h3>
       <sub>Public · Spring Boot + React</sub>
       <br /><br />
@@ -58,6 +62,10 @@ kimlik doğrulama, raporlama, scraping ve modern arayüzler.
       <a href="https://github.com/ozxcann/lab-rapor">Repo →</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/ozxcann/trendyol-takipp">
+        <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/covers/trendyol-takip.png" alt="Trendyol Takip kapak" width="100%" />
+      </a>
+      <br /><br />
       <h3><a href="https://github.com/ozxcann/trendyol-takipp">Trendyol Takip</a></h3>
       <sub>Private · WinForms + Selenium + SQLite</sub>
       <br /><br />
@@ -76,6 +84,10 @@ kimlik doğrulama, raporlama, scraping ve modern arayüzler.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/ozxcann/freeGluten">
+        <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/covers/freegluten.png" alt="freeGluten kapak" width="100%" />
+      </a>
+      <br /><br />
       <h3><a href="https://github.com/ozxcann/freeGluten">freeGluten</a></h3>
       <sub>Private · Next.js + Prisma + PostgreSQL</sub>
       <br /><br />
@@ -89,6 +101,10 @@ kimlik doğrulama, raporlama, scraping ve modern arayüzler.
       <a href="https://github.com/ozxcann/freeGluten">Repo →</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://web-side.vercel.app">
+        <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/covers/web-side.png" alt="Web Side kapak" width="100%" />
+      </a>
+      <br /><br />
       <h3><a href="https://web-side.vercel.app">Web Side</a></h3>
       <sub>Public · Live · TypeScript</sub>
       <br /><br />
