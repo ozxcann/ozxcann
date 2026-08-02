@@ -17,7 +17,7 @@
 
 Gereksinimleri netleştirir, süreçleri modele döküp test edilebilir hale getirir; SQL ile veri ve raporlama ihtiyacını karşılarım.  
 Scrum ekiplerinde UAT ve entegrasyon testleriyle kaliteyi destekler, paydaş ile geliştirme arasında köprü kurarım.  
-Web ve masaüstü ürünlerde (Spring Boot, React, Next.js, .NET) uçtan uca özellik geliştirir; otomasyon, harita (GIS) ve sade arayüzlerle iş sonucuna odaklanırım.
+Web ve masaüstü ürünlerde (Spring Boot, React, Next.js, .NET) uçtan uca özellik geliştiririm: kimlik doğrulama, CRUD, raporlama, entegrasyon ve yayınlama akışlarını tek parça olarak ele alır; Selenium / Playwright ile tekrarlayan işleri otomatikleştirir, arayüzleri sade ve anlaşılır tutarak iş sonucuna odaklanırım.
 
 <br />
 
