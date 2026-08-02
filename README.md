@@ -111,21 +111,48 @@
 
 ---
 
-<!-- ========== CONTACT ========== -->
+<!-- ========== ANALITIK ========== -->
 <p align="center">
-  <a href="mailto:selamiozcan.work@gmail.com">
-    <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/contact-cta.png" alt="İletişime Geçin" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/analytics-banner.png" alt="Analitik" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozxcann&label=Profil%20goruntulenme&color=0EA5E9&style=for-the-badge" alt="Profil görüntülenme" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ozxcann?label=Takipciler&style=for-the-badge&color=2563EB" alt="Takipçiler" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ozxcann?affiliations=OWNER&label=Toplam%20Star&style=for-the-badge&color=0F172A" alt="Stars" />
+</p>
+
+<br />
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ozxcann&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozxcann&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8&bg_color=00000000" alt="Languages" />
+</p>
+
+<br />
+
+**Proje etkileşimi**
+
+| Proje | Goruntulenme | Star | Fork |
+|:---|:---:|:---:|:---:|
+| [Lab Rapor](https://github.com/ozxcann/lab-rapor) | ![views](https://visitcount.itsvg.in/api?id=ozxcann-lab-rapor&label=views&color=0&icon=0&pretty=false) | ![stars](https://img.shields.io/github/stars/ozxcann/lab-rapor?style=flat-square&color=0EA5E9) | ![forks](https://img.shields.io/github/forks/ozxcann/lab-rapor?style=flat-square&color=2563EB) |
+| [Web Side](https://github.com/ozxcann/web-side) | ![views](https://visitcount.itsvg.in/api?id=ozxcann-web-side&label=views&color=0&icon=0&pretty=false) | ![stars](https://img.shields.io/github/stars/ozxcann/web-side?style=flat-square&color=0EA5E9) | ![forks](https://img.shields.io/github/forks/ozxcann/web-side?style=flat-square&color=2563EB) |
+| [Trendyol Takip](https://github.com/ozxcann/trendyol-takipp) | ![views](https://visitcount.itsvg.in/api?id=ozxcann-trendyol-takip&label=views&color=0&icon=0&pretty=false) | ![stars](https://img.shields.io/github/stars/ozxcann/trendyol-takipp?style=flat-square&color=0EA5E9) | ![forks](https://img.shields.io/github/forks/ozxcann/trendyol-takipp?style=flat-square&color=2563EB) |
+| [freeGluten](https://github.com/ozxcann/freeGluten) | ![views](https://visitcount.itsvg.in/api?id=ozxcann-freegluten&label=views&color=0&icon=0&pretty=false) | ![stars](https://img.shields.io/github/stars/ozxcann/freeGluten?style=flat-square&color=0EA5E9) | ![forks](https://img.shields.io/github/forks/ozxcann/freeGluten?style=flat-square&color=2563EB) |
+
+<sub>Not: GitHub ziyaretçi kimliğini paylaşmaz; sayaçlar profil/README görüntülenmesini ve public repo star/fork metriklerini gösterir. Detaylı trafik (unique visitor, referrer) repo → Insights → Traffic panelinden görülür.</sub>
+
+---
+
+<!-- ========== CONTACT ========== -->
 <p align="center">
   <a href="https://selamiozcan-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/selamiozcn/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:selamiozcan.work@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ozxcann&style=for-the-badge&color=0EA5E9" alt="Views" />
 </p>
 
 <p align="center">
