@@ -4,12 +4,16 @@
   Palette: Sky #0EA5E9 · Blue #3B82F6 · Surface #0F172A
 -->
 
-<!-- ========== HERO ========== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/hero-banner.png" alt="Selami Özcan — Business Analyst & Developer" width="100%" />
-</p>
-
+<!-- ========== HERO (text only — no banner / no photo) ========== -->
 <div align="center">
+
+<img src="https://img.shields.io/badge/Business_Analyst_%26_Developer-0F172A?style=flat&logoColor=38BDF8&labelColor=0F172A&color=0EA5E9" alt="Business Analyst & Developer" />
+
+# SELAMİ ÖZCAN
+
+<sub>Analyze &nbsp;|&nbsp; Product &nbsp;|&nbsp; Code &nbsp;|&nbsp; Ankara</sub>
+
+<br />
 
 Merhaba — Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
 **Türkiye Finans**’ta BA Intern olarak gereksinim, SQL Server, UAT ve Scrum süreçlerine katkı verdim.  
