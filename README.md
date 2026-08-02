@@ -1,23 +1,22 @@
 <!--
   GitHub Profile README — Selami ÖZCAN
+  Aligned with selamiozcan-web.vercel.app/about
   Palette: #2DD4BF · #94A3B8 · #0F172A
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=680&height=40&lines=Selami+%C3%96ZCAN;Business+Analyst+%C2%B7+Full-Stack+%C2%B7+GIS" alt="Selami Özcan" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=680&height=40&lines=Selami+%C3%96ZCAN;Business+Analyst+%26+Developer" alt="Selami Özcan" />
 
 <br />
 
-<sub>Trakya Üniversitesi · Bilişim Sistemleri ve Teknolojileri · Ankara</sub>
+<sub>Business Analyst & Developer · Ankara</sub>
 
 <br /><br />
 
 <a href="https://selamiozcan-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/selamiozcn/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://bionluk.com/ozxcann"><img src="https://img.shields.io/badge/Bionluk-0F172A?style=flat&logoColor=2DD4BF" alt="Bionluk" /></a>
 &nbsp;
 <a href="mailto:selamiozcan.work@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
 &nbsp;
@@ -29,23 +28,36 @@
 
 ### Hakkımda
 
-**Türkiye Finans**’ta İş Analisti stajyeri olarak gereksinim analizi, süreç modelleme, SQL Server raporlama, UAT ve Scrum sprintlerine katkı verdim.  
-Ürün tarafında Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) geliştiriyorum. Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum.
+Merhaba, ben **Selami Özcan**. Trakya Üniversitesi Bilişim Sistemleri ve Teknolojileri mezunuyum.  
+**Türkiye Finans Katılım Bankası**’nda Business Analyst Intern olarak gereksinim toplama, süreç modelleme, SQL Server sorgulama ve UAT süreçlerine Scrum yaklaşımıyla katkı verdim.  
+Yapay zeka, API test otomasyonu ve **Coğrafi Bilgi Sistemleri** (Anadolu Üniversitesi) alanlarında kendimi güncel tutuyorum.
 
-| | |
-|:---|:---|
-| **BA** | Gereksinim · süreç · UAT · Agile/Scrum · Jira |
-| **Dev** | React · Next.js · Spring Boot · .NET · SQL · Selenium |
-| **GIS** | Harita UX · veri / raporlama · ML temeli |
-| **Liderlik** | TÜBİT Başkan Yardımcısı · etkinlik & sponsor koordinasyonu |
+| **1+** Staj | **15+** Liderlik | **10+** Sertifika |
+|:---:|:---:|:---:|
 
 ---
 
-### Stack
+### Deneyim
+
+| Rol | Kurum | Dönem | Özet |
+|:---|:---|:---|:---|
+| **Business Analyst Intern** | Türkiye Finans Katılım Bankası | 2025 | Gereksinim · SQL Server raporlama · UAT · Scrum |
+| **Topluluk Başkan Yardımcısı** | TÜBİT — Trakya Üni. | 2023–2025 | Etkinlik stratejisi · sponsor · ekip koordinasyonu |
+
+---
+
+### Yetenekler
+
+| | |
+|:---|:---|
+| **Programlama** | C# · Python · JavaScript · TypeScript · SQL · Java |
+| **Stack** | React · Next.js · Node.js · Spring Boot · .NET |
+| **Veri** | SQL Server · PostgreSQL · Postman · Git · Docker · Jira |
+| **BA / Süreç** | Gereksinim · süreç modelleme · UAT · Scrum / Agile |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,nodejs,cs,dotnet,postgres,sqlite,python,docker,vercel,git&theme=dark&perline=14" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nextjs,nodejs,java,spring,dotnet,postgres,docker,git&theme=dark&perline=13" alt="Stack" />
 
 </div>
 
@@ -112,12 +124,16 @@
 
 ---
 
+### İletişim
+
 <div align="center">
 
 <sub>
+İş analisti pozisyonları, projeler veya iş birlikleri için:
 <a href="https://selamiozcan-web.vercel.app/">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/selamiozcn/">LinkedIn</a> ·
-<a href="mailto:selamiozcan.work@gmail.com">Email</a> ·
+<a href="mailto:selamiozcan.work@gmail.com">Email</a>
+<br />
 Ankara · İstanbul & İzmir
 </sub>
 
