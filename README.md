@@ -15,10 +15,9 @@
 
 <br />
 
-Merhaba — Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
-**Türkiye Finans**’ta BA Intern olarak gereksinim, SQL Server, UAT ve Scrum süreçlerine katkı verdim.  
-Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum. Analitik + ürün odaklı çalışıyorum: net gereksinimler, ölçülebilir iş akışları, temiz arayüz.  
-Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) üzerinde full-stack / otomasyon / harita deneyimi.
+İş analisti ve yazılım geliştirici olarak, gereksinimleri netleştirip teknik ekiplere aktarılabilir hale getiriyorum.  
+Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum; **Türkiye Finans Katılım Bankası**’nda Business Analyst Intern olarak Scrum ortamında gereksinim analizi, süreç modelleme, SQL Server raporlama ve UAT yürüttüm.  
+Anadolu Üniversitesi’nde **Coğrafi Bilgi Sistemleri** eğitimime devam ederken Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) ile full-stack, otomasyon ve harita odaklı ürünler geliştiriyorum.
 
 <br />
 
