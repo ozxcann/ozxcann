@@ -15,9 +15,9 @@
 
 <br />
 
-İş analisti ve yazılım geliştirici olarak, gereksinimleri netleştirip teknik ekiplere aktarılabilir hale getiriyorum.  
-Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum; **Türkiye Finans Katılım Bankası**’nda Business Analyst Intern olarak Scrum ortamında gereksinim analizi, süreç modelleme, SQL Server raporlama ve UAT yürüttüm.  
-Anadolu Üniversitesi’nde **Coğrafi Bilgi Sistemleri** eğitimime devam ederken Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) ile full-stack, otomasyon ve harita odaklı ürünler geliştiriyorum.
+Gereksinimleri netleştirir, süreçleri modele döküp test edilebilir hale getirir; SQL ile veri ve raporlama ihtiyacını karşılarım.  
+Scrum ekiplerinde UAT ve entegrasyon testleriyle kaliteyi destekler, paydaş ile geliştirme arasında köprü kurarım.  
+Web ve masaüstü ürünlerde (Spring Boot, React, Next.js, .NET) uçtan uca özellik geliştirir; otomasyon, harita (GIS) ve sade arayüzlerle iş sonucuna odaklanırım.
 
 <br />
 
