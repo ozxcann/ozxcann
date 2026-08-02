@@ -35,71 +35,7 @@
 
 <br />
 
-<!-- ========== YETENEKLER (eski stats kartlarının yeri) ========== -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-skills.png" alt="Yetenekler" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nextjs,nodejs,java,spring,dotnet,postgres,docker,git&theme=dark&perline=13" alt="Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Business_Analysis-0EA5E9?style=flat-square" alt="BA" />
-  <img src="https://img.shields.io/badge/Requirements-3B82F6?style=flat-square" alt="Req" />
-  <img src="https://img.shields.io/badge/Process_Mapping-2563EB?style=flat-square" alt="Process" />
-  <img src="https://img.shields.io/badge/UAT-0F172A?style=flat-square&logoColor=38BDF8" alt="UAT" />
-  <img src="https://img.shields.io/badge/SQL_Server-0EA5E9?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/GIS-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="GIS" />
-</p>
-
----
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-exp.png" alt="Deneyim" height="40" />
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Business Analyst Intern**  
-<sub>Türkiye Finans Katılım Bankası · 2025</sub>
-
-<br />
-
-<img src="https://img.shields.io/badge/SQL_Server-0EA5E9?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/UAT-3B82F6?style=flat-square" alt="UAT" />
-<img src="https://img.shields.io/badge/Scrum-0F172A?style=flat-square&logo=jira&logoColor=38BDF8" alt="Scrum" />
-
-<br /><br />
-
-<sub>Gereksinim toplama · süreç modelleme · SQL raporlama · entegrasyon / UAT</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Topluluk Başkan Yardımcısı**  
-<sub>TÜBİT — Trakya Üniversitesi · 2023–2025</sub>
-
-<br />
-
-<img src="https://img.shields.io/badge/Leadership-0EA5E9?style=flat-square" alt="Leadership" />
-<img src="https://img.shields.io/badge/Events-3B82F6?style=flat-square" alt="Events" />
-<img src="https://img.shields.io/badge/Stakeholders-0F172A?style=flat-square" alt="Stakeholders" />
-
-<br /><br />
-
-<sub>Etkinlik stratejisi · sponsor ilişkileri · ekip koordinasyonu · raporlama</sub>
-
-</td>
-</tr>
-</table>
-
----
-
+<!-- ========== PROJELER ========== -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-projects.png" alt="Projeler" height="40" />
 </p>
@@ -150,6 +86,28 @@
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ========== YETENEKLER ========== -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-skills.png" alt="Yetenekler" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nextjs,nodejs,java,spring,dotnet,postgres,docker,git&theme=dark&perline=13" alt="Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Analysis-0EA5E9?style=flat-square" alt="BA" />
+  <img src="https://img.shields.io/badge/Requirements-3B82F6?style=flat-square" alt="Req" />
+  <img src="https://img.shields.io/badge/Process_Mapping-2563EB?style=flat-square" alt="Process" />
+  <img src="https://img.shields.io/badge/UAT-0F172A?style=flat-square&logoColor=38BDF8" alt="UAT" />
+  <img src="https://img.shields.io/badge/SQL_Server-0EA5E9?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/GIS-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="GIS" />
+</p>
 
 ---
 
