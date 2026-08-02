@@ -1,25 +1,60 @@
 <!--
-  GitHub Profile README — Selami ÖZCAN
-  Palette: #2DD4BF · #94A3B8 · #0F172A
+  GitHub Profile README — Selami ÖZCAN (ozxcann)
+  Palette: Neon Teal #2DD4BF · Slate #94A3B8 · Dark #0B1220 · Surface #0F172A
 -->
+
+<!-- ========== HERO / HEADER BANNER ========== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0F172A&section=header&text=ozxcann&fontSize=52&fontColor=2DD4BF&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Business%20Analyst%20%7C%20Full-Stack%20%26%20GIS&descAlignY=52&descSize=14&animation=fadeIn"
+    alt="ozxcann header banner"
+    width="100%"
+  />
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&height=44&lines=Selami+%C3%96ZCAN;Bilgi%C5%9Fim+Sistemleri+%26+Teknolojileri;Full-Stack+%C2%B7+Desktop+%C2%B7+Web" alt="Selami Özcan" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&height=48&lines=Selami+%C3%96ZCAN;Clean+UI.+Solid+Architecture.;Build+%C2%B7+Analyze+%C2%B7+Ship"
+  alt="Typing headline"
+/>
 
 <br />
 
-<a href="https://selamiozcan-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://github.com/ozxcann"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=2DD4BF" alt="GitHub" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/selamiozcn/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Ankara-0F172A?style=flat&logo=googlemaps&logoColor=2DD4BF" alt="Ankara" />
+<sub>
+  <b>Computer Engineer</b> · <b>Business Analyst</b> · <b>Full-Stack & GIS Developer</b>
+</sub>
 
 <br /><br />
 
-<sub>Ürün odaklı yazılım · temiz arayüz · ölçülebilir sonuçlar</sub>
+<!-- Contact / Social — button-style badges -->
+<a href="https://selamiozcan-web.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/selamiozcn/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://bionluk.com/ozxcann">
+  <img src="https://img.shields.io/badge/Bionluk-0F172A?style=for-the-badge&logo=shopify&logoColor=2DD4BF" alt="Bionluk" />
+</a>
+&nbsp;
+<a href="https://selamiozcan-web.vercel.app/">
+  <img src="https://img.shields.io/badge/Contact-0F172A?style=for-the-badge&logo=minutemailer&logoColor=2DD4BF" alt="Contact" />
+</a>
+&nbsp;
+<a href="https://github.com/ozxcann">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub" />
+</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Location-Ankara-0F172A?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="Ankara" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Product%20%26%20UI-0F172A?style=flat-square&logo=figma&logoColor=2DD4BF" alt="Focus" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ozxcann&label=Profile%20views&color=2DD4BF&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -29,16 +64,27 @@
 
 <br />
 
-### Hakkımda
+## Hakkımda
 
-Bilişim Sistemleri ve Teknolojileri alanında uçtan uca ürünler geliştiriyorum.
-Web, masaüstü ve otomasyon katmanlarında — kimlik doğrulama, raporlama, scraping ve sade arayüzler.
+Ürün odaklı yazılım geliştiriyorum: **temiz arayüz**, **ölçülebilir iş akışları** ve **uçtan uca teslim**.  
+Web, masaüstü, otomasyon ve harita (GIS) katmanlarında — kimlik doğrulama, raporlama, scraping ve sade UX.
 
-| | |
-|:---|:---|
-| **Full-stack** | Spring Boot · Next.js · güvenli ve ölçeklenebilir uygulamalar |
-| **Otomasyon** | Selenium · Playwright · ürün ve katalog takibi |
-| **Arayüz** | Net iş akışları · az gürültü · görsel detay |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Full-Stack</b><br />
+      <sub>Spring Boot · Next.js · güvenli ve ölçeklenebilir ürünler</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Business Analysis</b><br />
+      <sub>Gereksinim · süreç · test edilebilir kabul kriterleri</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>GIS & Automation</b><br />
+      <sub>Harita UX · Selenium / Playwright · katalog takibi</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -46,9 +92,62 @@ Web, masaüstü ve otomasyon katmanlarında — kimlik doğrulama, raporlama, sc
 
 <br />
 
-### Seçili işler
+## Teknoloji Stack
+
+<div align="center">
+
+### Frontend & UI
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=2DD4BF" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=2DD4BF" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=2DD4BF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=2DD4BF" alt="Tailwind" />
+<img src="https://img.shields.io/badge/WinForms-0F172A?style=flat-square&logo=windows&logoColor=2DD4BF" alt="WinForms" />
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=2DD4BF" alt="HTML5" />
+
+<br /><br />
+
+### Backend & Mimariler
+<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=2DD4BF" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=2DD4BF" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/.NET_8-0F172A?style=flat-square&logo=dotnet&logoColor=2DD4BF" alt=".NET 8" />
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=2DD4BF" alt="Node.js" />
+<img src="https://img.shields.io/badge/Prisma-0F172A?style=flat-square&logo=prisma&logoColor=2DD4BF" alt="Prisma" />
+<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=2DD4BF" alt="JWT" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=2DD4BF" alt="SQLite" />
+
+<br /><br />
+
+### GIS & Yapay Zeka
+<img src="https://img.shields.io/badge/Leaflet-0F172A?style=flat-square&logo=leaflet&logoColor=2DD4BF" alt="Leaflet" />
+<img src="https://img.shields.io/badge/Map_UX-0F172A?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="Map UX" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=2DD4BF" alt="Python" />
+<img src="https://img.shields.io/badge/Data_Pipelines-0F172A?style=flat-square&logo=apacheairflow&logoColor=2DD4BF" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Scraping-0F172A?style=flat-square&logo=webcomponentsdotorg&logoColor=2DD4BF" alt="Scraping" />
+
+<br /><br />
+
+### Araçlar & DevOps
+<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=2DD4BF" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2DD4BF" alt="Docker" />
+<img src="https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Vercel" />
+<img src="https://img.shields.io/badge/Selenium-0F172A?style=flat-square&logo=selenium&logoColor=2DD4BF" alt="Selenium" />
+<img src="https://img.shields.io/badge/Playwright-0F172A?style=flat-square&logo=playwright&logoColor=2DD4BF" alt="Playwright" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=2DD4BF" alt="GitHub Actions" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,nodejs,cs,dotnet,postgres,sqlite,python,docker,vercel,git&theme=dark&perline=14" alt="Tech icons" />
+
+</div>
 
 <br />
+
+---
+
+<br />
+
+## Öne Çıkan Projeler
 
 <table>
 <tr>
@@ -60,17 +159,24 @@ Web, masaüstü ve otomasyon katmanlarında — kimlik doğrulama, raporlama, sc
 
 <br />
 
-**Lab Rapor** &nbsp;·&nbsp; <sub>Public</sub>
+**Lab Rapor** &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Public-2DD4BF?style=flat-square&labelColor=0F172A" alt="Public" />
 
-<sub>Spring Boot · React · JWT · H2</sub>
+<br />
+
+<img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=2DD4BF" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=2DD4BF" alt="React" />
+<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=2DD4BF" alt="JWT" />
+<img src="https://img.shields.io/badge/H2-0F172A?style=flat-square&logo=databasemaria&logoColor=2DD4BF" alt="H2" />
 
 <br /><br />
 
-Laboratuvar rapor yönetimi. Oturum, CRUD, görsel yükleme ve yazdır / HTML indirme.
+<sub>
+<strong>UX özeti:</strong> Laboratuvar rapor akışını tek ekranda sadeleştirir — oturum, CRUD, görsel yükleme, yazdır / HTML indirme. Net hiyerarşi, az gürültü.
+</sub>
 
 <br /><br />
 
-<a href="https://github.com/ozxcann/lab-rapor"><img src="https://img.shields.io/badge/Repo-0F172A?style=flat&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+<a href="https://github.com/ozxcann/lab-rapor"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -81,27 +187,30 @@ Laboratuvar rapor yönetimi. Oturum, CRUD, görsel yükleme ve yazdır / HTML in
 
 <br />
 
-**Trendyol Takip** &nbsp;·&nbsp; <sub>Private</sub>
+**Trendyol Takip** &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Private-94A3B8?style=flat-square&labelColor=0F172A" alt="Private" />
 
-<sub>WinForms · Selenium · SQLite · .NET 8</sub>
+<br />
+
+<img src="https://img.shields.io/badge/WinForms-0F172A?style=flat-square&logo=windows&logoColor=2DD4BF" alt="WinForms" />
+<img src="https://img.shields.io/badge/Selenium-0F172A?style=flat-square&logo=selenium&logoColor=2DD4BF" alt="Selenium" />
+<img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=2DD4BF" alt="SQLite" />
+<img src="https://img.shields.io/badge/.NET_8-0F172A?style=flat-square&logo=dotnet&logoColor=2DD4BF" alt=".NET 8" />
 
 <br /><br />
 
-Ürün takip otomasyonu. Kategori ve link yönetimi, scrape, kur dönüşümü, XML çıktı.
+<sub>
+<strong>UX özeti:</strong> Masaüstü otomasyon paneli — kategori / link yönetimi, scrape, kur dönüşümü ve XML çıktı. Operatör odaklı, tekrarlanabilir iş akışı.
+</sub>
 
 <br /><br />
 
-<a href="https://github.com/ozxcann/trendyol-takipp"><img src="https://img.shields.io/badge/Repo-0F172A?style=flat&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+<a href="https://github.com/ozxcann/trendyol-takipp"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2">
-
-<br />
-
-</td>
+<td colspan="2"><br /></td>
 </tr>
 
 <tr>
@@ -113,17 +222,24 @@ Laboratuvar rapor yönetimi. Oturum, CRUD, görsel yükleme ve yazdır / HTML in
 
 <br />
 
-**freeGluten** &nbsp;·&nbsp; <sub>Private</sub>
+**freeGluten** &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Private-94A3B8?style=flat-square&labelColor=0F172A" alt="Private" />
 
-<sub>Next.js · Prisma · PostgreSQL · Tailwind</sub>
+<br />
+
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=2DD4BF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Prisma-0F172A?style=flat-square&logo=prisma&logoColor=2DD4BF" alt="Prisma" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=2DD4BF" alt="Tailwind" />
 
 <br /><br />
 
-Glutensiz yaşam platformu. Katalog, barkod, harita, favoriler, admin ve scraping.
+<sub>
+<strong>UX özeti:</strong> Glutensiz yaşam platformu — katalog, barkod, harita, favoriler ve admin. Keşif → karar → kayıt döngüsü net; GIS dokunuşlu ürün deneyimi.
+</sub>
 
 <br /><br />
 
-<a href="https://github.com/ozxcann/freeGluten"><img src="https://img.shields.io/badge/Repo-0F172A?style=flat&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+<a href="https://github.com/ozxcann/freeGluten"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -134,19 +250,25 @@ Glutensiz yaşam platformu. Katalog, barkod, harita, favoriler, admin ve scrapin
 
 <br />
 
-**Web Side** &nbsp;·&nbsp; <sub>Public · Live</sub>
+**Web Side** &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Live-2DD4BF?style=flat-square&labelColor=0F172A" alt="Live" />
 
-<sub>TypeScript · Next.js · Vercel</sub>
+<br />
+
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=2DD4BF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=2DD4BF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Vercel" />
 
 <br /><br />
 
-Kişisel portföy sitesi. Hafif, hızlı ve sürekli yayında.
+<sub>
+<strong>UX özeti:</strong> Kişisel portföy — hafif tipografi, hızlı yükleme, net CTA. Markayı ilk bakışta taşıyan minimal landing kompozisyonu.
+</sub>
 
 <br /><br />
 
-<a href="https://web-side.vercel.app"><img src="https://img.shields.io/badge/Canlı-2DD4BF?style=flat&logo=vercel&logoColor=0F172A" alt="Live" /></a>
+<a href="https://web-side.vercel.app"><img src="https://img.shields.io/badge/Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0F172A" alt="Demo" /></a>
 &nbsp;
-<a href="https://github.com/ozxcann/web-side"><img src="https://img.shields.io/badge/Repo-0F172A?style=flat&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
+<a href="https://github.com/ozxcann/web-side"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Repo" /></a>
 
 </td>
 </tr>
@@ -175,15 +297,20 @@ Kişisel portföy sitesi. Hafif, hızlı ve sürekli yayında.
 
 <br />
 
-### Araçlar
+## GitHub Analitik
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,nodejs,cs,dotnet,postgres,sqlite,docker,vercel,git&theme=dark&perline=13" alt="Tech stack" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ozxcann&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&ring_color=2DD4BF" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozxcann&layout=compact&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=2DD4BF&text_color=94A3B8" alt="Top Languages" />
 
 <br /><br />
 
-<sub>Backend · Frontend · Veri · Auth · Otomasyon · Dağıtım</sub>
+<img src="https://streak-stats.demolab.com/?user=ozxcann&theme=dark&hide_border=true&background=0F172A&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="Streak Stats" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozxcann&bg_color=0F172A&color=2DD4BF&line=14B8A6&point=5EEAD4&area=true&hide_border=true&area_color=134E4A" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -193,47 +320,40 @@ Kişisel portföy sitesi. Hafif, hızlı ve sürekli yayında.
 
 <br />
 
-### Aktivite
+## İletişim
 
 <div align="center">
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=ozxcann&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&bg_color=00000000" alt="Stats" />
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozxcann&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=94A3B8&bg_color=00000000" alt="Languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozxcann&theme=transparent&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=64748B&background=00000000" alt="Streak" />
+İş birliği, freelance veya ürün görüşmeleri için:
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozxcann&bg_color=0d1117&color=2DD4BF&line=14B8A6&point=5EEAD4&area=true&hide_border=true" width="100%" alt="Activity" />
+<a href="https://selamiozcan-web.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/selamiozcn/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://bionluk.com/ozxcann">
+  <img src="https://img.shields.io/badge/Bionluk-0F172A?style=for-the-badge&logoColor=2DD4BF" alt="Bionluk" />
+</a>
+&nbsp;
+<a href="https://selamiozcan-web.vercel.app/">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" />
+</a>
+
+<br /><br />
+
+<sub>Ankara · 2026 · <a href="https://github.com/ozxcann">@ozxcann</a></sub>
 
 </div>
 
-<br />
-
----
-
-<br />
-
-<div align="center">
-
-<sub>
-  <a href="https://selamiozcan-web.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://web-side.vercel.app">Web Side</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/ozxcann">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/selamiozcn/">LinkedIn</a>
-</sub>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=ozxcann&style=flat-square&color=2DD4BF" alt="Views" />
-
-<br /><br />
-
-<sub>Ankara · 2026</sub>
-
-</div>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0F172A&section=footer"
+    alt="footer wave"
+    width="100%"
+  />
+</p>
