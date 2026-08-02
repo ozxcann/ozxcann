@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/Bionluk-0F172A?style=for-the-badge&logo=shopify&logoColor=2DD4BF" alt="Bionluk" />
 </a>
 &nbsp;
-<a href="https://selamiozcan-web.vercel.app/">
-  <img src="https://img.shields.io/badge/Contact-0F172A?style=for-the-badge&logo=minutemailer&logoColor=2DD4BF" alt="Contact" />
+<a href="mailto:selamiozcan.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" />
 </a>
 &nbsp;
 <a href="https://github.com/ozxcann">
@@ -66,22 +66,28 @@
 
 ## Hakkımda
 
-Ürün odaklı yazılım geliştiriyorum: **temiz arayüz**, **ölçülebilir iş akışları** ve **uçtan uca teslim**.  
-Web, masaüstü, otomasyon ve harita (GIS) katmanlarında — kimlik doğrulama, raporlama, scraping ve sade UX.
+Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
+**Türkiye Finans Katılım Bankası**’nda İş Analisti stajyeriyken gereksinim toplama, süreç modelleme, SQL Server raporlama, UAT ve Scrum sprintlerine doğrudan katkı verdim.  
+Aynı anda ürün geliştiriyorum: Lab Rapor (Spring Boot + React), freeGluten (Next.js + harita), Trendyol Takip (WinForms + Selenium) ve canlı portföy [Web Side](https://web-side.vercel.app).  
+Anadolu Üniversitesi’nde **Coğrafi Bilgi Sistemleri** eğitimine devam ediyorum — Ankara merkezli; İstanbul & İzmir’e açığım.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b>Full-Stack</b><br />
-      <sub>Spring Boot · Next.js · güvenli ve ölçeklenebilir ürünler</sub>
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <b>Business Analysis</b><br />
-      <sub>Gereksinim · süreç · test edilebilir kabul kriterleri</sub>
+      <sub>Gereksinim · süreç modelleme · UAT · Agile/Scrum · Jira</sub>
     </td>
-    <td width="33%" valign="top">
-      <b>GIS & Automation</b><br />
-      <sub>Harita UX · Selenium / Playwright · katalog takibi</sub>
+    <td width="25%" valign="top">
+      <b>Full-Stack</b><br />
+      <sub>React · Next.js · Spring Boot · .NET · Node · SQL</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>GIS & Veri</b><br />
+      <sub>Harita UX · SQL Server · raporlama · ML / görüntü işleme temeli</sub>
+    </td>
+    <td width="25%" valign="top">
+      <b>Liderlik</b><br />
+      <sub>TÜBİT Başkan Yardımcısı · etkinlik · sponsor · ekip koordinasyonu</sub>
     </td>
   </tr>
 </table>
@@ -340,13 +346,13 @@ Web, masaüstü, otomasyon ve harita (GIS) katmanlarında — kimlik doğrulama,
   <img src="https://img.shields.io/badge/Bionluk-0F172A?style=for-the-badge&logoColor=2DD4BF" alt="Bionluk" />
 </a>
 &nbsp;
-<a href="https://selamiozcan-web.vercel.app/">
+<a href="mailto:selamiozcan.work@gmail.com">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" />
 </a>
 
 <br /><br />
 
-<sub>Ankara · 2026 · <a href="https://github.com/ozxcann">@ozxcann</a></sub>
+<sub>Ankara · İstanbul & İzmir açık · 2026 · <a href="https://github.com/ozxcann">@ozxcann</a></sub>
 
 </div>
 
