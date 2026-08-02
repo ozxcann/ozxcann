@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Stats">
+  <defs>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="num" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="140" rx="20" fill="transparent"/>
+  <rect x="0" y="10" width="280" height="120" rx="20" fill="url(#card)" stroke="#1E3A5F"/>
+  <text x="140" y="70" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="url(#num)">1+</text>
+  <text x="140" y="100" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#94A3B8">Staj</text>
+  <rect x="310" y="10" width="280" height="120" rx="20" fill="url(#card)" stroke="#1E3A5F"/>
+  <text x="450" y="70" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="url(#num)">15+</text>
+  <text x="450" y="100" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#94A3B8">Liderlik</text>
+  <rect x="620" y="10" width="280" height="120" rx="20" fill="url(#card)" stroke="#1E3A5F"/>
+  <text x="760" y="70" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="url(#num)">10+</text>
+  <text x="760" y="100" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#94A3B8">Sertifika</text>
+</svg>

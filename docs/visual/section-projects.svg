@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44">
+  <defs>
+    <linearGradient id="i" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9"/><stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="44" rx="12" fill="#0F172A" stroke="#1E3A5F"/>
+  <rect x="8" y="8" width="28" height="28" rx="8" fill="url(#i)"/>
+  <text x="52" y="28" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC">Projeler</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="160" viewBox="0 0 1100 160" role="img" aria-label="Contact">
+  <defs>
+    <linearGradient id="cta" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="160" rx="28" fill="url(#cta)"/>
+  <circle cx="980" cy="20" r="90" fill="#FFFFFF" fill-opacity="0.08"/>
+  <circle cx="120" cy="150" r="70" fill="#FFFFFF" fill-opacity="0.08"/>
+  <text x="550" y="70" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#FFFFFF">Iletisime Gecin</text>
+  <text x="550" y="108" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" fill="#E0F2FE">BA rolleri  |  projeler  |  is birlikleri</text>
+</svg>
