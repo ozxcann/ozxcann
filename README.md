@@ -97,27 +97,6 @@ Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app)
 ---
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-skills.png" alt="Yetenekler" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nextjs,nodejs,java,spring,dotnet,postgres,docker,git&theme=dark&perline=13" alt="Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Business_Analysis-0EA5E9?style=flat-square" alt="BA" />
-  <img src="https://img.shields.io/badge/Requirements-3B82F6?style=flat-square" alt="Req" />
-  <img src="https://img.shields.io/badge/Process_Mapping-2563EB?style=flat-square" alt="Process" />
-  <img src="https://img.shields.io/badge/UAT-0F172A?style=flat-square&logoColor=38BDF8" alt="UAT" />
-  <img src="https://img.shields.io/badge/SQL_Server-0EA5E9?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/GIS-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="GIS" />
-</p>
-
----
-
-<p align="left">
   <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-projects.png" alt="Projeler" height="40" />
 </p>
 
@@ -182,6 +161,29 @@ Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app)
 <img src="https://raw.githubusercontent.com/ozxcann/lab-rapor/master/docs/screenshots/05-rapor-detay.jpg" width="48%" alt="Detay" />
 </p>
 </details>
+
+---
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/section-skills.png" alt="Yetenekler" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nextjs,nodejs,java,spring,dotnet,postgres,docker,git&theme=dark&perline=13" alt="Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Analysis-0EA5E9?style=flat-square" alt="BA" />
+  <img src="https://img.shields.io/badge/Requirements-3B82F6?style=flat-square" alt="Req" />
+  <img src="https://img.shields.io/badge/Process_Mapping-2563EB?style=flat-square" alt="Process" />
+  <img src="https://img.shields.io/badge/UAT-0F172A?style=flat-square&logoColor=38BDF8" alt="UAT" />
+  <img src="https://img.shields.io/badge/SQL_Server-0EA5E9?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/GIS-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="GIS" />
+</p>
+
+---
 
 ---
 
