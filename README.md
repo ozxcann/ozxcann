@@ -9,20 +9,12 @@
   <img src="https://raw.githubusercontent.com/ozxcann/ozxcann/master/docs/visual/hero-banner.png" alt="Selami Özcan — Business Analyst & Developer" width="100%" />
 </p>
 
-<table>
-<tr>
-<td width="32%" valign="middle" align="center">
-  <img src="https://selamiozcan-web.vercel.app/folder/my-character.png" alt="Selami Özcan" width="220" />
-</td>
-<td width="68%" valign="middle">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=false&vCenter=true&width=560&height=40&lines=Business+Analyst+%26+Developer;Build+%C2%B7+Analyze+%C2%B7+Ship" alt="Typing" />
-
-<br />
-
-**Hakkımda** — Merhaba, Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
+Merhaba — Trakya Üniversitesi **Bilişim Sistemleri ve Teknolojileri** mezunuyum.  
 **Türkiye Finans**’ta BA Intern olarak gereksinim, SQL Server, UAT ve Scrum süreçlerine katkı verdim.  
-Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum. Analitik + ürün odaklı çalışıyorum: net gereksinimler, ölçülebilir iş akışları, temiz arayüz. Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) üzerinde full-stack / otomasyon / harita deneyimi.
+Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum. Analitik + ürün odaklı çalışıyorum: net gereksinimler, ölçülebilir iş akışları, temiz arayüz.  
+Lab Rapor, freeGluten, Trendyol Takip ve [Web Side](https://web-side.vercel.app) üzerinde full-stack / otomasyon / harita deneyimi.
 
 <br />
 
@@ -32,9 +24,7 @@ Anadolu Üniversitesi’nde **GIS** eğitimine devam ediyorum. Analitik + ürün
 &nbsp;
 <a href="mailto:selamiozcan.work@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
